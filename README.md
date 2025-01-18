@@ -21,6 +21,9 @@ Welcome to my profile! I'm a passionate aspiring **Cloud Engineer** with a stron
 - **Operating Systems**: Linux, Windows Server, Ubuntu
 - **Telecommunications**: 4G/5G Networks, IoT
 - **Other**: Problem-solving, Teamwork, Agile methodologies
+
+## 💬 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/watson-mwangi-11ba841a1/)
 <!--
 **Mwangi-8549/mwangi-8549** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
