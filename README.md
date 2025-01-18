@@ -9,7 +9,7 @@ Welcome to my profile! I'm a passionate aspiring **Cloud Engineer** with a stron
 - 🎓 I’m a final-year student at **Moi University**  
 - 👯 I’m looking to collaborate on **cloud infrastructure** and **devops engineering** projects  
 - 💬 Feel free to ask me about **cloud computing**, **networking**, or **telecommunications**  
-- 📫 How to reach me: [my email address is](mailto:watsonmwangi84@gmail.com)  
+- 📫 How to reach me: [my email address is]  
 - ⚡ Fun fact: I enjoy exploring how technology can transform industries and improve lives!
 
 ## 💼 Skills
@@ -23,7 +23,8 @@ Welcome to my profile! I'm a passionate aspiring **Cloud Engineer** with a stron
 - **Other**: Problem-solving, Teamwork, Agile methodologies
 
 ## 💬 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/watson-mwangi-11ba841a1/)
+- LinkedIn[link](https://www.linkedin.com/in/watson-mwangi-11ba841a1/)
+- Email[link] (mailto:watsonmwangi84@gmail.com)
 <!--
 **Mwangi-8549/mwangi-8549** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
